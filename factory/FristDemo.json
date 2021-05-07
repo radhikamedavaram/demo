@@ -1,0 +1,9 @@
+{
+	"name": "FristDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e92a8609-540d-4551-97ea-aba4670a084d",
+		"tenantId": "ee819dae-3865-4a2e-b83b-49a973baa88a"
+	}
+}

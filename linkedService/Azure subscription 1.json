@@ -1,0 +1,10 @@
+{
+	"name": "Azure subscription 1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://Demokeych.vault.azure.net/"
+		}
+	}
+}
